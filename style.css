@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(rgb(250, 252, 150), rgb(53, 188, 241));
+    color: rgba(231, 164, 19, 0.733);
+}
+
+.heading {
+    color: chocolate;
+    width: 75%;
+    font-size: 25px;
+    font-family: fantasy;
+    word-spacing: 15px;
+    letter-spacing: 3px;
+}
+
+#camera {
+    height: 400px;
+    width: 400px;
+    border: 3px dashed chocolate;
+
+}
+
+.name_of_objects,
+#result_family_name,
+#result_family_acuracy {
+    color: rgba(40, 19, 231, 0.733);
+}
